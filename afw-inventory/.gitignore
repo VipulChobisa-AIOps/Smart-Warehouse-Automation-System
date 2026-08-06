@@ -1,0 +1,15 @@
+# Temporary Excel/Word lock files
+~$*
+
+# Video Formats (Excluded from repository)
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.mpg
+*.mpeg
+*.flv
+*.mkv
+*.camrec
+*.VOB
+*.vob
